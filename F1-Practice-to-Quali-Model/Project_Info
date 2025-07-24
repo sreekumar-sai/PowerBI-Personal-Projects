@@ -1,0 +1,53 @@
+
+Formula 1 Free Practice Data Scraper 🏁
+
+This project automates the extraction of Formula 1 Free Practice session results (FP1, FP2, and FP3) from the official Formula1.com website and stores the data as structured CSV files. The data can be used for further analysis in Excel, Power BI, or any data science workflow.
+
+📌 Project Highlights
+
+- ✅ Scrapes all three Free Practice sessions using a single FP1 link
+- ✅ Automatically scrolls, loads, and extracts the full table
+- ✅ Saves the output as TrackName_FP1.csv, TrackName_FP2.csv, etc.
+- ✅ Handles dynamic content and cookie/modal popups
+- ✅ Built using Python and Selenium
+
+🚀 How to Use
+
+1. Clone this repo
+2. Install the required libraries:
+   pip install -r requirements.txt
+3. Run the script:
+   python FreePractice_Automation.py
+4. Paste the FP1 link when prompted (e.g.,
+   https://www.formula1.com/en/results/2025/races/1254/australia/practice/1)
+5. Enter the track name (used in CSV filenames)
+
+The script will extract and save CSV files for:
+- FP1
+- FP2
+- FP3
+
+🛠️ Tech Stack
+
+- Language: Python 3.x
+- Libraries:
+  - selenium – for browser automation
+  - pandas – for tabular data handling
+  - BeautifulSoup – for HTML parsing
+
+📂 Output Example
+
+Australia_FP1.csv
+Australia_FP2.csv
+Australia_FP3.csv
+
+📈 Applications
+
+- Performance trend analysis
+- Driver/team comparisons
+- Race weekend summaries
+- Power BI dashboards and visualizations
+
+📄 License
+
+This project is for educational and personal use only. Formula1.com content belongs to its respective owners.
