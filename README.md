@@ -1,35 +1,45 @@
-# Power BI Personal Projects
+🏎️ Power BI & Data Projects Repository
+This repository showcases a collection of original data projects—ranging from Power BI dashboards to Python-based data automation tools—developed to demonstrate my skills in data analysis, data modeling, and interactive storytelling. Each project is independently conceptualized and built to extract actionable insights through effective visualizations and automation workflows.
 
-This repository showcases a collection of original Power BI projects developed to demonstrate my skills in data analysis, data modeling, and interactive dashboard design. Each project is independently conceptualized and focuses on providing insights through effective storytelling and visualization.
+📌 Objectives
+Apply end-to-end development: data extraction, transformation, modeling, and reporting
 
-## 📌 Objectives
+Automate data collection processes to support real-time or repeated analysis
 
-- Apply end-to-end Power BI development: data extraction, transformation, modeling, and reporting.
-- Explore real-world datasets to draw meaningful insights.
-- Build dashboards that are clean, intuitive, and impactful.
-- Develop business-oriented analytical thinking.
+Explore real-world and sports datasets to uncover meaningful trends
 
-## 🛠 Tools & Skills Used
+Design clean, intuitive, and insightful dashboards
 
-- Power BI Desktop
-- Power Query (M)
-- DAX (Data Analysis Expressions)
-- Data modeling best practices
-- Report and dashboard design principles
+Strengthen business and analytical thinking through practical use cases
 
-## 📁 Project List
+🛠 Tools & Skills Used
+Power BI Desktop – for dashboard development
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| Sales Performance Dashboard | Analyzes regional sales performance, KPIs, and trends over time | ✅ Completed |
-| Customer Segmentation | Clustering and profiling customers based on behavior | ✅ Completed |
-| Inventory Management | Visualizing stock levels and turnover metrics | 🛠 In Progress |
+Power Query (M) & DAX – for data transformation and modeling
 
-> Each project includes PBIX files, screenshots, and a brief case study or documentation.
+Python (Selenium, BeautifulSoup, Pandas) – for data scraping and preprocessing
 
-## 📄 License
+Data modeling best practices
 
-This repository is licensed under the MIT License.
+Automation and workflow optimization
 
----
+📁 Project List
+Project	Description	Status
+Formula 1 Free Practice Scraper	Automates extraction of FP1–FP3 session data from Formula1.com for analysis	🛠 In Progress
 
+Each project includes relevant code, PBIX files (for Power BI dashboards), screenshots, and case documentation to explain the business context, data logic, and outcomes.
+
+🔍 Spotlight: Formula 1 Free Practice Data Scraper
+This Python-based tool automates the collection of Free Practice (FP1, FP2, FP3) session results directly from the official Formula1.com website. It allows users to generate clean, structured CSV files for use in Power BI, Excel, or any analytics workflow.
+
+Key Features:
+
+✅ Extracts all three FP sessions using a single FP1 link
+
+✅ Automatically handles scrolling, dynamic loading, and modal popups
+
+✅ Saves data in clear, track-specific CSV formats
+
+✅ Built using Selenium, BeautifulSoup, and Pandas
+
+📈 Applications: Performance trends, driver/team comparisons, race weekend summaries, and Power BI dashboards.
