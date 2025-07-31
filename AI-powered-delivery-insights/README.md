@@ -139,10 +139,3 @@ This creates `delivery_data.csv` in the **Data/** folder.
 - Add **drill-through reports** for complaint investigation.
 
 ---
-
-## 📌 Author
-**Sai Sankar Sreekumar**  
-📍 London, Ontario, Canada  
-💼 Data Analytics & Visualization Enthusiast  
-📧 [Your Email]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/sreekumar-sai)
