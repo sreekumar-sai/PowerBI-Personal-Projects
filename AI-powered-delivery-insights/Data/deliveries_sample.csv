@@ -1,0 +1,101 @@
+delivery_id,area,delivery_date,delay_minutes,status,customer_rating,is_delayed,is_complaint
+2,Downtown,2024-06-22,24,Delayed,1,1,1
+34,Downtown,2024-06-30,12,Delayed,5,1,0
+39,Uptown,2024-06-30,18,Delayed,4,1,0
+40,Suburb North,2024-06-13,22,Delayed,4,1,0
+48,Suburb South,2024-06-14,15,Delayed,1,1,1
+49,Downtown,2024-06-02,13,Delayed,5,1,0
+52,Downtown,2024-06-15,26,Delayed,4,1,0
+53,Downtown,2024-06-21,18,Delayed,5,1,0
+56,Suburb South,2024-06-09,30,Delayed,4,1,0
+57,Suburb South,2024-06-23,24,Delayed,4,1,0
+62,Industrial Park,2024-06-03,22,Delayed,4,1,0
+65,Suburb North,2024-06-07,22,Delayed,3,1,0
+66,Suburb South,2024-06-05,22,Delayed,4,1,0
+67,Downtown,2024-06-01,15,Delayed,4,1,0
+71,Industrial Park,2024-06-01,22,Delayed,3,1,0
+74,Suburb North,2024-06-07,22,Delayed,3,1,0
+75,Suburb South,2024-06-09,29,Delayed,1,1,1
+94,Industrial Park,2024-06-04,13,Delayed,2,1,1
+96,Industrial Park,2024-06-22,24,Delayed,5,1,0
+98,Suburb North,2024-06-20,11,Delayed,2,1,1
+1,Downtown,2024-06-01,0,Delivered,3,0,0
+3,Suburb South,2024-06-02,0,Delivered,3,0,0
+4,Industrial Park,2024-06-01,0,Delivered,4,0,0
+5,Industrial Park,2024-06-14,0,Delivered,3,0,0
+6,Downtown,2024-06-25,0,Delivered,4,0,0
+7,Suburb North,2024-06-05,7,Delivered,3,0,0
+8,Downtown,2024-06-13,0,Delivered,3,0,0
+9,Suburb North,2024-06-26,2,Delivered,4,0,0
+10,Suburb South,2024-06-03,0,Delivered,4,0,0
+11,Suburb North,2024-06-19,7,Delivered,1,0,1
+12,Uptown,2024-06-25,10,Delivered,5,0,0
+13,Downtown,2024-06-13,0,Delivered,5,0,0
+14,Uptown,2024-06-12,0,Delivered,3,0,0
+15,Downtown,2024-06-20,0,Delivered,5,0,0
+16,Uptown,2024-06-15,0,Delivered,5,0,0
+17,Industrial Park,2024-06-08,0,Delivered,5,0,0
+18,Downtown,2024-06-08,0,Delivered,3,0,0
+19,Suburb North,2024-06-03,7,Delivered,4,0,0
+20,Suburb North,2024-06-07,0,Delivered,5,0,0
+21,Suburb South,2024-06-05,0,Delivered,5,0,0
+22,Industrial Park,2024-06-09,0,Delivered,5,0,0
+23,Suburb South,2024-06-12,8,Delivered,2,0,1
+24,Suburb South,2024-06-03,0,Delivered,2,0,1
+25,Uptown,2024-06-26,0,Delivered,1,0,1
+26,Suburb South,2024-06-20,0,Delivered,5,0,0
+27,Downtown,2024-06-22,0,Delivered,5,0,0
+28,Suburb North,2024-06-25,0,Delivered,3,0,0
+29,Uptown,2024-06-15,1,Delivered,5,0,0
+30,Suburb North,2024-06-17,0,Delivered,5,0,0
+31,Suburb North,2024-06-27,0,Delivered,2,0,1
+32,Suburb North,2024-06-25,0,Delivered,5,0,0
+33,Industrial Park,2024-06-30,0,Delivered,4,0,0
+35,Suburb North,2024-06-08,0,Delivered,4,0,0
+36,Downtown,2024-06-03,0,Delivered,1,0,1
+37,Industrial Park,2024-06-25,0,Delivered,4,0,0
+38,Industrial Park,2024-06-06,0,Delivered,4,0,0
+41,Industrial Park,2024-06-15,0,Delivered,1,0,1
+42,Downtown,2024-06-19,0,Delivered,3,0,0
+43,Downtown,2024-06-23,0,Delivered,1,0,1
+44,Downtown,2024-06-28,0,Delivered,3,0,0
+45,Suburb South,2024-06-07,0,Delivered,5,0,0
+46,Industrial Park,2024-06-19,0,Delivered,4,0,0
+47,Suburb South,2024-06-07,0,Delivered,4,0,0
+50,Downtown,2024-06-08,0,Delivered,4,0,0
+51,Suburb South,2024-06-06,0,Delivered,5,0,0
+54,Uptown,2024-06-06,0,Delivered,3,0,0
+55,Suburb South,2024-06-29,0,Delivered,1,0,1
+58,Suburb South,2024-06-05,0,Delivered,5,0,0
+59,Industrial Park,2024-06-24,0,Delivered,3,0,0
+60,Downtown,2024-06-19,0,Delivered,5,0,0
+61,Uptown,2024-06-02,0,Delivered,2,0,1
+63,Industrial Park,2024-06-08,0,Delivered,4,0,0
+64,Suburb South,2024-06-22,0,Delivered,3,0,0
+68,Downtown,2024-06-03,0,Delivered,3,0,0
+69,Suburb North,2024-06-29,3,Delivered,3,0,0
+70,Uptown,2024-06-15,0,Delivered,3,0,0
+72,Downtown,2024-06-29,0,Delivered,5,0,0
+73,Industrial Park,2024-06-05,0,Delivered,3,0,0
+76,Suburb South,2024-06-27,0,Delivered,3,0,0
+77,Uptown,2024-06-21,0,Delivered,4,0,0
+78,Suburb South,2024-06-18,0,Delivered,5,0,0
+79,Uptown,2024-06-18,2,Delivered,4,0,0
+80,Uptown,2024-06-14,0,Delivered,3,0,0
+81,Downtown,2024-06-29,0,Delivered,3,0,0
+82,Downtown,2024-06-12,0,Delivered,5,0,0
+83,Industrial Park,2024-06-24,5,Delivered,3,0,0
+84,Uptown,2024-06-26,0,Delivered,4,0,0
+85,Uptown,2024-06-24,0,Delivered,5,0,0
+86,Uptown,2024-06-09,6,Delivered,2,0,1
+87,Downtown,2024-06-28,0,Delivered,5,0,0
+88,Suburb South,2024-06-12,10,Delivered,5,0,0
+89,Uptown,2024-06-01,0,Delivered,3,0,0
+90,Downtown,2024-06-25,0,Delivered,4,0,0
+91,Industrial Park,2024-06-11,0,Delivered,5,0,0
+92,Uptown,2024-06-19,0,Delivered,4,0,0
+93,Suburb North,2024-06-24,0,Delivered,4,0,0
+95,Downtown,2024-06-23,0,Delivered,5,0,0
+97,Uptown,2024-06-12,0,Delivered,4,0,0
+99,Suburb North,2024-06-17,10,Delivered,3,0,0
+100,Suburb North,2024-06-18,0,Delivered,4,0,0
